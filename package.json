@@ -1,0 +1,19 @@
+{
+  "name": "number",
+  "version": "1.0.0",
+  "description": "��#\u0000N\u0000u\u0000m\u0000b\u0000e\u0000r\u0000 \u0000G\u0000u\u0000e\u0000s\u0000s\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadashii1417/Number-Guesser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadashii1417/Number-Guesser/issues"
+  },
+  "homepage": "https://github.com/tadashii1417/Number-Guesser#readme"
+}
